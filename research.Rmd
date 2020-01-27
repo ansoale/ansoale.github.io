@@ -1,0 +1,31 @@
+---
+title: "Research"
+---
+My primary research interests are sufficient dimension reduction and multivariate analysis. Other interests include machine learning and network analysis.
+
+<br>
+
+### **Preprints**
+<ol>
+<li> Soale, Abdul-Nasah and Dong, Yuexiao. On expectile-assisted inverse regression
+estimation for sufficient dimension reduction. <i>Submitted</i>. [download](https://arxiv.org/pdf/1910.10898.pdf)
+
+Presented at [3RD International Conference On Statistical Distributions and Applications (ICOSDA)](https://ssc.ca/en/3rd-international-conference-statistical-distributions-and-applications-icosda-2019), Grand Rapids, MI, Oct. 2019 
+
+<li> Soale, A.N. and Dong, Y. Principal asymmetric least squares for sufficient dimension reduction. <i> In preparation</i>
+
+Presented at [Cook's Distance and Beyond](http://irsa.stat.umn.edu/session/cooks-distance-and-beyond-conference-celebrating-contributions-r-dennis-cook), Minneapolis, MN, Mar. 2019 
+ 
+
+<li> Soale, A.N. and Tsyawo, E. Clustered Covariate Regression. <i>Working Paper. </i> [download](https://papers.ssrn.com/sol3/papers.cfm?abstract\_id=3394012)
+
+</ol>
+
+<br>
+
+### **Work in progress**
+
+* Review of moment-based sufficient dimension reduction methods for multivariate response
+
+* An efficient model-free method for detecting influential observations in single-index models
+
