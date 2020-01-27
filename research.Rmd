@@ -19,6 +19,7 @@ Presented at [Cook's Distance and Beyond](http://irsa.stat.umn.edu/session/cooks
 
 <li> Soale, A.N. and Tsyawo, E. Clustered Covariate Regression. <i>Working Paper. </i> [download](https://papers.ssrn.com/sol3/papers.cfm?abstract\_id=3394012)
 
+Presented (by Tsyawo) at the [Mid-West Econometrics Group Conference](https://u.osu.edu/meg2019/), October 2019
 </ol>
 
 <br>
