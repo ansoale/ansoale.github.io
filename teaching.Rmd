@@ -3,24 +3,27 @@ title: "Teaching"
 ---
 <br>
 
-## *Fox School of Business *
+# *Fox School of Business *
 
-### *Instructor of record *
+#### *Instructor (Undergraduate Courses)*
 <ul>
 <li> Fall 2018: STAT 1001, Quantitative Methods for Business I
 <li> Spring 2019: STAT 1102, Quantitative Methods for Business II
 </ul>
+
+#### *Teaching Assistant (Graduate Courses) *
+<ul>
+<li>Multivariate Analysis I
+<li>Statistical Methods for Business Research II
+<li>Applied Stat & Data Science
+</ul>
 <br>
 
-### *Teaching Assistant (Graduate Courses) *
-Multivariate Analysis I <br>
-Statistical Methods for Business Research II <br> 
-Applied Stat & Data Science <br>
-<br>
+# *East Tennessee State University*
 
-## *East Tennessee State University*
-
-### *Teaching Assistant (Undergraduate Courses) *
-Linear Algebra <br>
-Calculus I & II <br>
-Probability & Statistics
+#### *Teaching Assistant (Undergraduate Courses) *
+<ul>
+<li>Linear Algebra 
+<li>Calculus I & II 
+<li>Probability & Statistics
+</ul>
