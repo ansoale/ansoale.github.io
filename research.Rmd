@@ -12,7 +12,7 @@ estimation for sufficient dimension reduction. <i>Submitted</i>. [download](http
 
 Presented at [3RD International Conference On Statistical Distributions and Applications (ICOSDA)](https://ssc.ca/en/3rd-international-conference-statistical-distributions-and-applications-icosda-2019), Grand Rapids, MI, Oct. 2019 
 
-<li> Soale, A.N. and Dong, Y. Principal asymmetric least squares for sufficient dimension reduction. <i> In preparation</i>
+<li> Soale, A.N. and Dong, Y. Principal asymmetric least squares for sufficient dimension reduction. <i> Submitted</i>[download](https://arxiv.org/pdf/2002.05264.pdf)
 
 Presented at [Cook's Distance and Beyond](http://irsa.stat.umn.edu/session/cooks-distance-and-beyond-conference-celebrating-contributions-r-dennis-cook), Minneapolis, MN, Mar. 2019 
  
