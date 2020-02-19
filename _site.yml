@@ -25,7 +25,7 @@ navbar:
       href: mailto:abdul-nasah.soale@temple.edu                    # CHANGE HERE 
     - text: "GitHub"
       icon: fa-github
-      href: https://github.com/ansoale      # CHANGE HERE 
+      href: https://github.com/ansoale     # CHANGE HERE 
 output:
   html_document:
     theme: spacelab                                #cosmo   paper  simplex spacelab
