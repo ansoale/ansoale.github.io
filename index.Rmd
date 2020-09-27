@@ -10,7 +10,7 @@ title: "Home"
 <h1> Abdul-Nasah Soale</h1>
 I am currently a Ph.D. candidate in the Department of Statistical Science at Fox School of Business
 at Temple University. I received my M.S. Mathematical Sciences from East Tennessee State
-University (ETSU) in 2016. Previously, I obtained my B.Sc. Actuarial Science from Kwame Nkrumah
+University (ETSU) in 2016. Prior to grad school, I obtained my B.Sc. Actuarial Science from Kwame Nkrumah
 University of Science and Technology (KNUST) in Ghana in 2012. 
 <br>
 
