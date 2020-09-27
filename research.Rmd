@@ -2,35 +2,40 @@
 title: "Research"
 output: word_document
 ---
-My primary research interests are sufficient dimension reduction and multivariate analysis. Other interests include machine learning and network analysis.
 
-<br>
-## Preprints, Current Projects, and Research Topics
-
-### Dimension Reduction </h2>
+<u><h2>Dimension Reduction </h2></u>
+<h3>Preprints in review</h3>
 <ol>
-<li> Soale, Abdul-Nasah and Dong, Yuexiao. On expectile-assisted inverse regression
-estimation for sufficient dimension reduction. <i>Submitted</i>. [download](https://arxiv.org/pdf/1910.10898.pdf)
+<li> Soale, A.N and Dong, Y. On Expectile-Assisted Inverse Regression
+Estimation for Sufficient Dimension Reduction. <i>Submitted</i>. [download](https://arxiv.org/pdf/1910.10898.pdf)
 
+<li> Soale, A.N. and Dong, Y. On Sufficient Dimension Reduction via Principal
+Asymmetric Least Squares. <i> Submitted</i> [download](https://arxiv.org/pdf/2002.05264.pdf)
+</ol>
 
-
-Presented at [3RD International Conference On Statistical Distributions and Applications (ICOSDA)](https://ssc.ca/en/3rd-international-conference-statistical-distributions-and-applications-icosda-2019), Grand Rapids, MI, Oct. 2019 
-
-<li> Soale, A.N. and Dong, Y. Principal asymmetric least squares for sufficient dimension reduction. <i> Submitted</i>[download](https://arxiv.org/pdf/2002.05264.pdf)
-
-Presented at [Cook's Distance and Beyond](http://irsa.stat.umn.edu/session/cooks-distance-and-beyond-conference-celebrating-contributions-r-dennis-cook), Minneapolis, MN, Mar. 2019 
- 
+<h3>In progress</h3>
+<ol>
+<li> Power, D. M., Soale, A. N., and Dong, Y. A Review of Moment-Based Sufficient Dimension Reduction Methods for Multivariate Response.
 
 <li> Soale, A.N. and Tsyawo, E. Clustered Covariate Regression. <i>Working Paper. </i> [download](https://papers.ssrn.com/sol3/papers.cfm?abstract\_id=3394012)
 
-Presented (by Tsyawo) at the [Mid-West Econometrics Group Conference](https://u.osu.edu/meg2019/), October 2019
+<li> Soale, A.N. and Dong, Y. Robust Discrimination in Non-Gaussian Settings via Envelope Parameterization.
+
 </ol>
 
-<br>
 
-### **Work in progress**
+<u><h2>Causal Inference </h2></u>
+<h3>In progress</h3>
+<ol>
+<li> Soale, A.N., Forastiere, L., and E.M. Airoldi. Adjusting for Homophily in Estimating Spillover Effect in Social Networks.
+</ol>
 
-* Review of moment-based sufficient dimension reduction methods for multivariate response
 
-* An efficient model-free method for detecting influential observations in single-index models
+<u><h2>Text Analysis </h2></u>
+<h3>Preprints in review</h3>
+<ol>
+<li> Janmohamed, K., Soale, A.N., Forastiere, L., Tang, W., Sha, Y., Massey, D., Demant, J., E.M. Airoldi, Kumar, N. The Online Vaping Narrative and its Intersection with Covid-19: Initial Study Using Topic Modeling Techniques. Journal of Medical Internet Research. [To appear](https://preprints.jmir.org/preprint/21743/accepted)
+
+<li> Kumar, N., Soale, A.N., Janmohamed, K., Sha, Y., Forastiere L., E.M. Airoldi. Global Pandemic May Reduce Levels of Online Misinformation: The Case Of E-Cigarettes. Submitted.
+</ol>
 
