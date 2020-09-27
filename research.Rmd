@@ -5,9 +5,9 @@ output: word_document
 My primary research interests are sufficient dimension reduction and multivariate analysis. Other interests include machine learning and network analysis.
 
 <br>
-<h1> Preprints, Current Projects, and Research Topics </h1>
+## Preprints, Current Projects, and Research Topics
 
-<h2>Dimension Reduction </h2>
+### Dimension Reduction </h2>
 <ol>
 <li> Soale, Abdul-Nasah and Dong, Yuexiao. On expectile-assisted inverse regression
 estimation for sufficient dimension reduction. <i>Submitted</i>. [download](https://arxiv.org/pdf/1910.10898.pdf)
