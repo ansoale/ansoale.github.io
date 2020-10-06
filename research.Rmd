@@ -1,6 +1,5 @@
 ---
 title: "Research"
-output: word_document
 ---
 
 <u><h2>Dimension Reduction </h2></u>
